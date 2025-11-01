@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#6aff00",
+    "secondary": "#00eaff",
+    "accent": "#9500ff",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "fontFamily": "Rubik, system-ui, sans-serif",
+    "tone": "friendly"
+  },
+  "goal": "lead-collection",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "eyebrow": "AI Game Builder",
+      "headline": "Turn ideas into playable games in minutes",
+      "subheadline": "Describe your game. Our AI generates mechanics, art, levels—and you export or refine without code.",
+      "bullets": [
+        "Prompt → Playable build",
+        "Coherent art, SFX, levels, and logic",
+        "Export-ready for Unity and Godot"
+      ],
+      "background": {
+        "color": "#6aff00",
+        "pattern": "gradient",
+        "emphasis": "medium"
+      }
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "eyebrow": "The pain",
+      "headline": "Shipping a coherent game is slow and complex",
+      "subheadline": "From vague ideas to stable builds, every step is fragmented and time‑consuming.",
+      "bullets": [
+        "Ideas don’t translate cleanly into mechanics",
+        "Assets clash across art, sound, and code",
+        "Playability issues and bugs stall progress",
+        "Exports break between engines and formats",
+        "Prototyping takes weeks—not hours"
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "solution",
+      "type": "solution",
+      "eyebrow": "The fix",
+      "headline": "Generate, play, and polish—no coding required",
+      "subheadline": "Type your vision, get a playable build with coherent art, logic, and levels.",
+      "bullets": [
+        "Natural language → runnable prototype",
+        "Auto‑tuned mechanics, physics, and AI",
+        "One‑click export to popular engines"
+      ],
+      "background": {
+        "color": "#00eaff",
+        "pattern": "diagonal",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "features",
+      "type": "features",
+      "eyebrow": "What you can test today",
+      "headline": "Core capabilities to validate a full game build",
+      "subheadline": "Focused features to ship a functional prototype fast.",
+      "items": [
+        {
+          "title": "Prompt‑to‑Play",
+          "description": "Describe gameplay, theme, and goals; get a runnable build in minutes."
+        },
+        {
+          "title": "Smart Mechanics",
+          "description": "AI designs rules, physics, and enemy behaviors that fit your prompt."
+        },
+        {
+          "title": "Unified Assets",
+          "description": "Auto‑generated sprites, tiles, SFX, and UI that work together."
+        },
+        {
+          "title": "Export & Iterate",
+          "description": "Playtest in‑browser, then export to Unity/Godot to extend."
+        }
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "eyebrow": "Social proof",
+      "headline": "Early users are building faster, with less friction",
+      "supportingCopy": "Representative quotes from indie devs, educators, and marketers.",
+      "testimonials": [
+        {
+          "quote": "I went from idea to a playable prototype over lunch.",
+          "name": "Riley Chen",
+          "title": "Solo Dev",
+          "company": "Voidcat Games"
+        },
+        {
+          "quote": "Perfect for teaching core design loops without boilerplate.",
+          "name": "Dr. Amara Singh",
+          "title": "Game Design Instructor",
+          "company": "State U"
+        },
+        {
+          "quote": "We spin up branded mini‑games for campaigns in a day.",
+          "name": "Jordan Ruiz",
+          "title": "Marketing Manager",
+          "company": "Upshift"
+        }
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "cta",
+      "type": "cta",
+      "eyebrow": "Get in early",
+      "headline": "Be first to build AI‑powered playable games",
+      "subheadline": "Join the waitlist to influence features and secure early access.",
+      "bullets": [
+        "Limited beta: help shape our roadmap",
+        "Keep your exports—no lock‑in",
+        "No credit card to join"
+      ],
+      "background": {
+        "color": "#9500ff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    }
+  ]
+}
